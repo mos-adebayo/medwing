@@ -26,4 +26,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## IMPORTANT NOTICE
 
-The application is dependent on a backend and can be accessed via http://localhost:3000
+The application is dependent on a backend and can be accessed via [https://github.com/mos-adebayo/medwing-backend]
