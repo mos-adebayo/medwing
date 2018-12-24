@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Location Item component Location Item component snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card-content"
+  >
+    <p
+      className="grey-text"
+    >
+      <small>
+        Address
+      </small>
+    </p>
+    <p
+      className="truncate"
+    >
+      Ahmadu Bello Way, Lagos, Lagos
+    </p>
+    <p
+      className="grey-text"
+    >
+      <small>
+        Latitude, Longitude
+      </small>
+    </p>
+    <p>
+      6.440976
+      , 
+      3.402617
+    </p>
+  </div>
+  <div
+    className="card-footer card-content grey lighten-4"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="left"
+      >
+        <a
+          className="locate-icon"
+          href="/"
+          onClick={[Function]}
+        >
+          <i
+            className="tiny material-icons"
+          >
+            search
+          </i>
+        </a>
+         
+        <a
+          className="text-red remove-icon"
+          href="/"
+          onClick={[Function]}
+        >
+          <i
+            className="tiny material-icons red-text"
+          >
+            delete
+          </i>
+        </a>
+      </div>
+      <div
+        className="right"
+      >
+        <p
+          className="grey-text"
+        >
+          <small>
+            Dec 22, 2018
+          </small>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

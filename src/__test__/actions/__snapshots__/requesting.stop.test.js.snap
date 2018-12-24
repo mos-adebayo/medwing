@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Requesting Action Snapshot Dispatches the correct action and payload 1`] = `
+Array [
+  Object {
+    "requesting": false,
+    "type": "stop_request",
+  },
+  Object {
+    "requesting": false,
+    "type": "stop_request",
+  },
+]
+`;

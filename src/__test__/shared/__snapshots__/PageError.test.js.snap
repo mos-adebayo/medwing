@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppErrorMessage components snapshot 1`] = `
+<div
+  className="app-error red"
+>
+  <p
+    className="white-text"
+  >
+    Error message
+  </p>
+</div>
+`;
+
+exports[`ComponentErrorMessage components snapshot 1`] = `
+<div
+  className="section empty-container"
+>
+  <h1
+    className="center-align"
+  >
+    <i
+      className="large material-icons red-text"
+    >
+      error
+    </i>
+  </h1>
+  <p
+    className="center-align"
+  >
+    Error message
+  </p>
+</div>
+`;
